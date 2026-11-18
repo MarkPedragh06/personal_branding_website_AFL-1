@@ -65,7 +65,7 @@ Project ini merupakan Personal Branding dari saya yakni sebuah Website Pribadi u
 yang dimiliki. Web Appnya sendiri memiliki halaman about, portofolio, dan blog tersendiri. Khususnya untuk bagian portofolio dan blog masih digunakan data dummy namun penerapan routing, controller serta blade sudah termasuk. 
 
 ## CARA MENJALANKAN
-# PASTIKAN PHP, COMPOSER, NODE.JS, DAN NPM SUDAH TERPASANG
+## PASTIKAN PHP, COMPOSER, NODE.JS, DAN NPM SUDAH TERPASANG
 jalankan code pada terminal di folder proyek
 1. Clone repository dan masuk ke folder proyek:
    ```bash
