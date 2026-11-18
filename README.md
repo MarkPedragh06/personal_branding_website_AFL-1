@@ -60,5 +60,34 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # personal_branding_website_AFL-1
 
-PENJELASAN WEB APPLICATION PERSONAL BRANDING WEBSITE AFL-1
+## PENJELASAN PROJECT
+Project ini merupakan Personal Branding dari saya yakni sebuah Website Pribadi untuk memperkenalkan identitas, kemampuan, pengalaman, dan hasil karya 
+yang dimiliki. Web Appnya sendiri memiliki halaman about, portofolio, dan blog tersendiri. Khususnya untuk bagian portofolio dan blog masih digunakan data dummy namun penerapan routing, controller serta blade sudah termasuk. 
 
+## CARA MENJALANKAN
+# PASTIKAN PHP, COMPOSER, NODE.JS, DAN NPM SUDAH TERPASANG
+jalankan code pada terminal di folder proyek
+1. Clone repository dan masuk ke folder proyek:
+   ```bash
+   git clone https://github.com/MarkPedragh06/personal_branding_website_AFL-1.git
+   cd personal_branding_website_AFL-1
+   
+2. Pasang dependensi:
+   composer install
+   npm install
+
+3. Buat file konfigurasi lokal dan buat application key:
+   cp .env.example .env
+   php artisan key:generate
+
+4. Buat aset frontend:
+   npm run build
+
+5. Jalankan server laravel:
+   php artisan serve
+
+6. buka alamat berikut di browser:
+   http://127.0.0.1:8000
+
+## PENJELASAN PENGGUNAAN AI
+Untuk project ini saya kebanyakan gunakan AI untuk bantu saya ketika terjadi error dimana AI kasih solusi bagi saya untuk diterapkan (penulisan syntax yang salah, penjelasan routing setiap halaman, penggunaan syntax blade) selain itu saya juga gunakan AI untuk bagian styling dimana saya menunjukkan AI contoh styling yang saya mau dan AI akan menerapkannya sehingga saya tinggal menaruh finishing touchesnya 
