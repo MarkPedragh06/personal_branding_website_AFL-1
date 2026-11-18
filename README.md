@@ -59,5 +59,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
 # personal_branding_website_AFL-1
+
+PENJELASAN WEB APPLICATION PERSONAL BRANDING WEBSITE AFL-1
 Mark Pedragh Andreas Moses Maramis - 1076012514013 | Tugas Personal Branding Website berbasis Laravel AFL 1 Mata Kuliah Web Development
 >>>>>>> a5bec6cb38f1d3a531aed6520e8feadbd6d3e0f4
